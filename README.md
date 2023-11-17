@@ -1,2 +1,3 @@
 # cloud-template
-A sample Ploomber Cloud project
+
+A sample Ploomber Cloud project.
